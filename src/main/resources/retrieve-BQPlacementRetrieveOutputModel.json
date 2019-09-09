@@ -1,0 +1,29 @@
+{
+  "placementInstanceReport" : {
+    "placementInstanceReport" : {},
+    "placementInstanceReportRecord" : {},
+    "placementInstanceReportParameters" : "placementInstanceReportParameters",
+    "placementInstanceReportType" : "placementInstanceReportType"
+  },
+  "placementInstanceAnalysis" : {
+    "placementInstanceAnalysisReport" : {},
+    "placementInstanceAnalysisRecord" : {},
+    "placementInstanceAnalysisReportType" : "placementInstanceAnalysisReportType",
+    "placementInstanceAnalysisParameters" : "placementInstanceAnalysisParameters"
+  },
+  "placementRetrieveActionTaskReference" : "PRATR743282",
+  "placementInstanceRecord" : {
+    "employeeBusinessUnitReference" : "764909",
+    "placementRoadshowSchedule" : "placementRoadshowSchedule",
+    "placementWorkTaskRecord" : {
+      "placementWorkTaskDescription" : "placementWorkTaskDescription",
+      "placementWorkTaskType" : "placementWorkTaskType",
+      "placementWorkTaskWorkProducts" : "placementWorkTaskWorkProducts",
+      "documentDirectoryEntryInstanceReference" : "783835"
+    },
+    "prospectList" : "prospectList",
+    "placementTransaction" : "placementTransaction"
+  },
+  "placementRetrieveActionTaskRecord" : {},
+  "placementRetrieveActionResponse" : "placementRetrieveActionResponse"
+}

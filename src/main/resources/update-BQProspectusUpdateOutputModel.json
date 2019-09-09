@@ -1,0 +1,15 @@
+{
+  "prospectusInstanceRecord" : {
+    "prospectusWorkTaskRecord" : {
+      "prospectusWorkTaskType" : "prospectusWorkTaskType",
+      "prospectusWorkTaskDescription" : "prospectusWorkTaskDescription",
+      "prospectusWorkTaskWorkProducts" : "prospectusWorkTaskWorkProducts",
+      "prospectus" : "prospectus",
+      "documentDirectoryEntryInstanceReference" : "713885"
+    },
+    "employeeBusinessUnitReference" : "773873"
+  },
+  "prospectusUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "prospectusUpdateActionTaskReference" : "PUATR728774"
+}

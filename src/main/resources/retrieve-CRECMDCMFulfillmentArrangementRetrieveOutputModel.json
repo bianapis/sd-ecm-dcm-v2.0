@@ -1,0 +1,32 @@
+{
+  "eCMDCMFulfillmentArrangementInstanceAnalysis" : {
+    "eCMDCMFulfillmentArrangementInstanceAnalysisReport" : {},
+    "eCMDCMFulfillmentArrangementInstanceAnalysisData" : "eCMDCMFulfillmentArrangementInstanceAnalysisData",
+    "eCMDCMFulfillmentArrangementInstanceAnalysisReportType" : "eCMDCMFulfillmentArrangementInstanceAnalysisReportType"
+  },
+  "cRECMDCMFulfillmentArrangementInstanceRecord" : {
+    "associations" : {
+      "associationReference" : "779531",
+      "associationType" : "associationType",
+      "associationObligationEntitlement" : "associationObligationEntitlement"
+    },
+    "productInstanceReference" : "779670",
+    "eCMDCMInstrumentRecord" : {},
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "customerReference" : "737805",
+    "eCMDCMFulfillmentSchedule" : "eCMDCMFulfillmentSchedule",
+    "businessUnitReference" : "745610",
+    "documentDirectoryEntryInstanceReference" : "716936",
+    "bankBranchLocationReference" : "789563"
+  },
+  "eCMDCMFulfillmentArrangementInstanceReportRecord" : {
+    "eCMDCMFulfillmentArrangementInstanceReportData" : "eCMDCMFulfillmentArrangementInstanceReportData",
+    "eCMDCMFulfillmentArrangementInstanceReportType" : "eCMDCMFulfillmentArrangementInstanceReportType",
+    "eCMDCMFulfillmentArrangementInstanceReport" : {}
+  },
+  "eCMDCMFulfillmentArrangementRetrieveActionTaskReference" : "EFARATR700855",
+  "eCMDCMFulfillmentArrangementRetrieveActionTaskRecord" : {},
+  "eCMDCMFulfillmentArrangementRetrieveActionResponse" : "eCMDCMFulfillmentArrangementRetrieveActionResponse"
+}

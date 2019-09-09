@@ -1,0 +1,22 @@
+{
+  "cRECMDCMFulfillmentArrangementInstanceRecord" : {
+    "associations" : {
+      "associationReference" : "720954",
+      "associationType" : "associationType",
+      "associationObligationEntitlement" : "associationObligationEntitlement"
+    },
+    "productInstanceReference" : "781065",
+    "eCMDCMInstrumentRecord" : {},
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "customerReference" : "702890",
+    "eCMDCMFulfillmentSchedule" : "eCMDCMFulfillmentSchedule",
+    "businessUnitReference" : "717545",
+    "documentDirectoryEntryInstanceReference" : "752240",
+    "bankBranchLocationReference" : "732477"
+  },
+  "updateResponseRecord" : {},
+  "eCMDCMFulfillmentArrangementUpdateActionTaskRecord" : {},
+  "eCMDCMFulfillmentArrangementUpdateActionTaskReference" : "EFAUATR784876"
+}

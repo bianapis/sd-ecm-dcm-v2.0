@@ -1,0 +1,18 @@
+{
+  "placementRequestActionTaskReference" : "PRATR707682",
+  "placementRequestRecordReference" : "PRRR739977",
+  "placementRequestActionTaskRecord" : {},
+  "placementInstanceRecord" : {
+    "employeeBusinessUnitReference" : "772658",
+    "placementRoadshowSchedule" : "placementRoadshowSchedule",
+    "placementWorkTaskRecord" : {
+      "placementWorkTaskDescription" : "placementWorkTaskDescription",
+      "placementWorkTaskType" : "placementWorkTaskType",
+      "placementWorkTaskWorkProducts" : "placementWorkTaskWorkProducts",
+      "documentDirectoryEntryInstanceReference" : "730789"
+    },
+    "prospectList" : "prospectList",
+    "placementTransaction" : "placementTransaction"
+  },
+  "requestResponseRecord" : {}
+}

@@ -1,0 +1,20 @@
+{
+  "eCMDCMFulfillmentArrangementInstanceStatus" : "eCMDCMFulfillmentArrangementInstanceStatus",
+  "cRECMDCMFulfillmentArrangementInstanceRecord" : {
+    "associations" : {
+      "associationReference" : "796807",
+      "associationType" : "associationType",
+      "associationObligationEntitlement" : "associationObligationEntitlement"
+    },
+    "productInstanceReference" : "795600",
+    "eCMDCMInstrumentRecord" : {},
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "eCMDCMFulfillmentSchedule" : "eCMDCMFulfillmentSchedule",
+    "documentDirectoryEntryInstanceReference" : "777594"
+  },
+  "eCMDCMFulfillmentArrangementInstanceReference" : "EFAIR779917",
+  "eCMDCMFulfillmentArrangementInitiateActionRecord" : {},
+  "eCMDCMFulfillmentArrangementInitiateActionReference" : "EFAIAR703084"
+}

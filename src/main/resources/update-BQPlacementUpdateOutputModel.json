@@ -1,0 +1,17 @@
+{
+  "placementUpdateActionTaskRecord" : {},
+  "placementUpdateActionTaskReference" : "PUATR774458",
+  "updateResponseRecord" : {},
+  "placementInstanceRecord" : {
+    "employeeBusinessUnitReference" : "741089",
+    "placementRoadshowSchedule" : "placementRoadshowSchedule",
+    "placementWorkTaskRecord" : {
+      "placementWorkTaskDescription" : "placementWorkTaskDescription",
+      "placementWorkTaskType" : "placementWorkTaskType",
+      "placementWorkTaskWorkProducts" : "placementWorkTaskWorkProducts",
+      "documentDirectoryEntryInstanceReference" : "748949"
+    },
+    "prospectList" : "prospectList",
+    "placementTransaction" : "placementTransaction"
+  }
+}

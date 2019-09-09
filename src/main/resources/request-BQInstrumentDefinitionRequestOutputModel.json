@@ -1,0 +1,16 @@
+{
+  "instrumentDefinitionRequestActionTaskRecord" : {},
+  "instrumentDefinitionRequestActionTaskReference" : "IDRATR707604",
+  "instrumentDefinitionRequestRecordReference" : "IDRRR704930",
+  "instrumentDefinitionInstanceRecord" : {
+    "employeeBusinessUnitReference" : "708795",
+    "instrumentDefinitionWorkTaskRecord" : {
+      "instrumentDefinitionWorkTaskDescription" : "instrumentDefinitionWorkTaskDescription",
+      "instrumentDefinitionWorkTaskWorkProducts" : "instrumentDefinitionWorkTaskWorkProducts",
+      "instrumentDefinitionSpecification" : "instrumentDefinitionSpecification",
+      "instrumentDefinitionWorkTaskType" : "instrumentDefinitionWorkTaskType",
+      "documentDirectoryEntryInstanceReference" : "775234"
+    }
+  },
+  "requestResponseRecord" : {}
+}

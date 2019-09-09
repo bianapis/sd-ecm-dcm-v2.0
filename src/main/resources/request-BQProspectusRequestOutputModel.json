@@ -1,0 +1,16 @@
+{
+  "prospectusRequestRecordReference" : "PRRR742642",
+  "prospectusInstanceRecord" : {
+    "prospectusWorkTaskRecord" : {
+      "prospectusWorkTaskType" : "prospectusWorkTaskType",
+      "prospectusWorkTaskDescription" : "prospectusWorkTaskDescription",
+      "prospectusWorkTaskWorkProducts" : "prospectusWorkTaskWorkProducts",
+      "prospectus" : "prospectus",
+      "documentDirectoryEntryInstanceReference" : "755047"
+    },
+    "employeeBusinessUnitReference" : "712420"
+  },
+  "prospectusRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {},
+  "prospectusRequestActionTaskReference" : "PRATR776605"
+}

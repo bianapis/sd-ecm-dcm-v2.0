@@ -1,0 +1,27 @@
+{
+  "prospectusRetrieveActionTaskRecord" : {},
+  "prospectusRetrieveActionTaskReference" : "PRATR728782",
+  "prospectusInstanceRecord" : {
+    "prospectusWorkTaskRecord" : {
+      "prospectusWorkTaskType" : "prospectusWorkTaskType",
+      "prospectusWorkTaskDescription" : "prospectusWorkTaskDescription",
+      "prospectusWorkTaskWorkProducts" : "prospectusWorkTaskWorkProducts",
+      "prospectus" : "prospectus",
+      "documentDirectoryEntryInstanceReference" : "786327"
+    },
+    "employeeBusinessUnitReference" : "763005"
+  },
+  "prospectusInstanceReport" : {
+    "prospectusInstanceReportType" : "prospectusInstanceReportType",
+    "prospectusInstanceReportParameters" : "prospectusInstanceReportParameters",
+    "prospectusInstanceReport" : {},
+    "prospectusInstanceReportRecord" : {}
+  },
+  "prospectusInstanceAnalysis" : {
+    "prospectusInstanceAnalysisReportType" : "prospectusInstanceAnalysisReportType",
+    "prospectusInstanceAnalysisReport" : {},
+    "prospectusInstanceAnalysisParameters" : "prospectusInstanceAnalysisParameters",
+    "prospectusInstanceAnalysisRecord" : {}
+  },
+  "prospectusRetrieveActionResponse" : "prospectusRetrieveActionResponse"
+}
